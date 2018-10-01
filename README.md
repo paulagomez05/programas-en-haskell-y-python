@@ -1,6 +1,6 @@
 # programas-en-haskell-y-python
 
-integrantes
+Integrantes
 
 Paula andrea gomez 20152020927
 
